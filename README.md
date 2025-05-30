@@ -1,7 +1,7 @@
 👋 Hi, I'm **Tasin-Mobin Mohtadi**  <br/>
 🎓 Computer Science Student at **Daffodil International University**  <br/>
 💡 Passionate about **AI, Machine Learning, and Generative AI**  <br/>
-📚 Currently researching **DNSGA-II and dynamic reinitialization factors**  <br/>
+📚 Currently researching **DNSGA-II and dynamic reinitialization factors in The University of Electro-Communications, Tokyo, Japan**  <br/>
 💻 Exploring the world of **software development & technological innovations**  <br/>
 🌍 Multilingual: **Bangla, English, and Japanese (hiragana & katakana preferred!)**  <br/>
 🏃‍♂️ Love staying active—**jogging on Saturdays** keeps me energized!  <br/>
